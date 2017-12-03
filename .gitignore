@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.floydexpt
+.floydignore
+__pycache__/
+data/

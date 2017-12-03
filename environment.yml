@@ -1,0 +1,15 @@
+name: semantic-segmentation
+channels:
+    - https://conda.anaconda.org/menpo
+dependencies:
+    - python==3.5
+    - numpy
+    - scipy
+    - matplotlib
+    - pillow
+    - scikit-learn
+    - scikit-image
+    - tqdm
+    - jupyter
+    - tensorflow
+    - keras
